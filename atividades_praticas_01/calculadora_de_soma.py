@@ -1,5 +1,5 @@
-numero1 = 10
-numero2 = 15
+numero1 = 12
+numero2 = 14
 
 soma = numero1 + numero2
 
